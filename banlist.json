@@ -1,3 +1,5 @@
 {
-  {213788926, "Banned! Noob!"}
+  "bannedUsers": {
+    "213788926": "Banned! Noob!"
+  }
 }

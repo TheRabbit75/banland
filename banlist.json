@@ -1,4 +1,12 @@
-{
-  "232323": "Weird!", // weirdo
-  "555": "Weird!2"
-}
+[
+  {
+    "userID": 213788926,
+    "reason": "Banned! Noob!",
+    "privateReason": "Alt account of cheater"
+  },
+  {
+    "userID": 987654321,
+    "reason": "Toxic behavior",
+    "privateReason": "Multiple chat offenses"
+  }
+]
